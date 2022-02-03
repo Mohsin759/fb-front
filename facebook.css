@@ -1,0 +1,249 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+
+#maincontaniner{
+ background-color: #f0f2f5;
+width: 100%;
+height: 100vh;
+}
+
+.lefttext{
+	padding-top: 200px;
+	margin-left: 175px;
+}
+
+.lefttext h1{
+	color: #1877f2;
+	font-size: 58px;
+	font-family: Sans-serif;
+    line-height: 0px;
+}
+
+.lefttext h2{
+    font-size: 28px;
+    font-family: Sans-serif;
+    font-weight: normal;
+}
+
+.Rightform{
+	width: 395px;
+    height: 394px;
+    background-color: white;
+    float: right;
+    margin-top: -254px;
+    margin-right: 203px;
+    border-radius: 10px;
+}
+
+.form{
+	float: right;
+	text-align: center;
+	margin-top: 20px;
+
+}
+.form input{
+	font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    margin:8px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+
+}
+
+.lgbtn{
+	margin-top: 8px;
+}
+
+.lgbtn button{
+	width: 364px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+.lgbtn a{
+	margin-top: 8px;
+	line-height: 76px;
+    text-decoration: none;
+    color: #1877f2;
+}
+
+.bottmbtn{
+	margin-top: 40px;
+}
+
+.bottmbtn a{
+	text-decoration: none;
+    background-color: #42b72a;
+    padding: 13px 18px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.bottmheading{
+	margin-top: 54px;
+}
+
+.bottmheading a{
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+    font-weight: bold;
+}
+.footr ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 121px;
+    font-size: 13px;
+}
+.footr ul li{
+    padding: 5px;
+    
+}
+.footr ul li a{
+    text-decoration: none;
+    color: #737373;
+}
+
+.btmfootr {
+
+    color: #737373;
+    margin: 0 auto;
+    width: 980px;
+
+}
+
+
+
+
+/* Sign up page css */
+
+
+#mainform{
+    max-width: 38%;
+    margin: auto; 
+    margin-top: 40px;
+    
+}
+
+#middleform{
+    height: 560px;
+    background-color: #fff;
+    border: 1px solid #b9d6fb;
+    
+}
+
+form h1{
+	padding-top: 10px;
+    padding-left: 12px;
+}
+
+form span{
+	    margin-left: 13px;
+}
+
+#abc{
+	margin-left: 15px;
+}
+
+#abc input{
+	font-size: 17px;
+    padding: 10px 16px;
+    margin: 8px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+#abc1{
+    margin-left: 8px;
+}
+
+#abc1 input{
+	font-size: 17px;
+    padding: 10px 20px;
+    width: 427px;
+    margin: 7px 12px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    background-color: #f0f2f5;
+}
+
+#dob p{
+	margin-left: 20px;
+    line-height: 0px;
+
+}
+
+#slectdate{
+    margin-left: 12px;
+    line-height: 0px;
+}
+
+#slectdate select{
+	font-size: 17px;
+    padding: 10px 2px;
+    width: 152px;
+    margin: 3px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#gen{
+	margin-left: 20px;
+    line-height: 0px;
+}
+
+#genbox{
+	display: flex;
+    margin-left: 8px;
+	
+}
+
+.gen2{
+	padding: 11px 5px;
+    border: 1px solid #f0f2f5;
+    margin-left: 10px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 140px;
+}
+
+.radiobtn{
+   position: relative;
+    right: -71px;
+}
+
+#btmtxt p{
+	font-size: 10px;
+    margin-left: 18px;
+}
+
+#sbmtbtn input{
+    padding: 7px 57px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+    margin-left: 144px;
+    background-color: #42b72a;
+    color: #fff;
+    font-weight: bold;
+}
+.overlay{
+position: fixed;
+background-color: rgb(255,255, 255,0.8);
+
+
+}
